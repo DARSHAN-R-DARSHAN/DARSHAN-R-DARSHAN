@@ -61,6 +61,10 @@ I enjoy working on real-world codebases and improving them by:
   <a href="https://github.com/DARSHAN-R-DARSHAN">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/darshan-07-ramanji/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
