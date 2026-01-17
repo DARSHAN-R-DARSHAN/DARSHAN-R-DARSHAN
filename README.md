@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend-focused developer</b> • <b>Go & Python</b> • <b>Open Source</b><br/>
-  Exploring <b>Bitcoin</b> & scalable backend systems
+  Exploring scalable backend systems
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 I'm a **backend-focused developer** with strong foundations in **Go and Python**, passionate about building **scalable systems**, **developer tooling**, and contributing to **open-source software**.
 
-Currently, I’m diving into the **Bitcoin ecosystem**, learning how real-world distributed systems work, and preparing for programs like **Summer of Bitcoin**.
+Currently learning how real-world distributed systems work.
 
 ---
 
@@ -33,7 +33,6 @@ Currently, I’m diving into the **Bitcoin ecosystem**, learning how real-world 
 
 - 🛠 Building backend projects using **Go**
 - 🌍 Contributing to **open-source repositories**
-- ₿ Learning **Bitcoin fundamentals & infrastructure**
 - 📚 Improving system design and backend architecture skills
 
 ---
@@ -41,7 +40,6 @@ Currently, I’m diving into the **Bitcoin ecosystem**, learning how real-world 
 ## 📌 Interests
 
 - Backend engineering & APIs  
-- Bitcoin & Lightning Network tooling  
 - Open-source collaboration  
 - Developer productivity & tooling  
 
